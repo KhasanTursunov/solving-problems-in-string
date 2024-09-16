@@ -89,3 +89,12 @@
 //     }
 // }
 // console.log(count + 1)
+
+// 7-masala
+
+// let str = "    buniyam 2 minutda ishlab bolaman      ";
+// let result = str.trim();
+
+// console.log(result);
+
+// (*_^) ikki minutgayam bormadi
