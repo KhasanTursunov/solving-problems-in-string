@@ -59,3 +59,20 @@
 // }
 
 // console.log(result);
+
+
+// 5-masala
+
+// let str = "KhasanTursunov";
+// let result = "";
+
+// let divider1 = "";
+// let divider2 = "";
+// let divider3 = "";
+
+// for(let i = 0; i < str.length / 3; i++){
+//     result += str[i];
+//     console.log(result);
+// }
+
+// ustoz buni 3 qismga olib, alohida qb teskari qilishga idea kemadi qanqa qilishni bilmadim
