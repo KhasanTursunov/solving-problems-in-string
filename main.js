@@ -10,3 +10,15 @@
 //     console.log(result);
 // };
 // };
+
+
+// 2-masala
+
+// let str = "hello";
+
+// let result = str.substring(0);
+
+// console.log(result);
+
+// ustoz masala shartiga toliq tushunmadim,
+// masala shartida "tekshirirng" degan if bilanam tekshirib kordim, lekin baribir toliq tushunmadim
