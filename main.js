@@ -22,3 +22,19 @@
 
 // ustoz masala shartiga toliq tushunmadim,
 // masala shartida "tekshirirng" degan if bilanam tekshirib kordim, lekin baribir toliq tushunmadim
+
+
+// 3-masala
+
+// let str = "k1h2a3s4a5n6";
+// let result = "";
+
+// for (let i = 0; i < str.length; i++) {
+//   if (str[i] >= '0' && str[i] <= '9') {
+//     result += "*";
+//   } else {
+//     result += str[i];
+//   }
+// }
+
+// console.log(result);
