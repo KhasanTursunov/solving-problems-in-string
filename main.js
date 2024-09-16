@@ -38,3 +38,24 @@
 // }
 
 // console.log(result);
+
+
+// 4-masala
+
+// let str = "BU yErda yigirmA ikkitA unlI harf bOr va ular yuldUzchaga OzgarAdi";
+// let result = "";
+
+// for (let i = 0; i < str.length; i++) {
+//   let alfabit = str.charCodeAt(i);
+
+//   if (
+//     alfabit === 65 || alfabit === 69 || alfabit === 73 || alfabit === 79 || alfabit === 85 ||
+//     alfabit === 97 || alfabit === 101 || alfabit === 105 || alfabit === 111 || alfabit === 117
+//   ) {
+//     result += "*";
+//   } else {
+//     result += str[i];
+//   }
+// }
+
+// console.log(result);
