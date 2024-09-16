@@ -114,3 +114,62 @@
 
 // }
 // console.log(result2);
+
+
+// 9-masala   ohirigacha yozilmagan ekan
+
+// 10-masala
+
+// str.split();
+
+// let str = "Khasan Tursunov";
+// let result = "";
+// let arr = [];
+// for(let i = 0; i < str.length; i++){
+//     if(arr.includes(str[i])){
+//         result += str[i];
+//     }else{
+//         arr.push(str[i])
+//     }
+// }
+// console.log(result)
+
+// 11-masala
+
+// let str = "Khasan Tursunov";
+
+// for(let i = 0; i < str.length; i++){
+//     console.log(str.charCodeAt(i));
+// }
+
+
+// 12-masala
+
+// let str = "Stringda 4  $ Tortta 8  Soz  7  %   # Bor"; 
+
+// for(let i = 0; i < str.length; i++){
+//     if (
+//       (str.charCodeAt(i) >= 97 && str.charCodeAt(i) <= 122) ||
+//       (str.charCodeAt(i) >= 65 && str.charCodeAt(i) <= 90)
+//     ) {
+//       console.log(str[i]);
+//     }
+// }
+
+
+// 13-masala
+
+// let str="123456789k1h2a3s4324a5n6";
+// let length = str.length;
+// let i = 0;
+// while(i<str.length){
+//     if(str.charCodeAt(i)>=48 && str.charCodeAt(i)<=57){
+//         str = str.slice(0,i) + str.slice(i+1,str.length);
+//     }
+//     else{
+//         i++;
+//     }
+// }
+// console.log(str);
+
+// 14-masala
