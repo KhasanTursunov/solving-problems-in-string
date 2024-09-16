@@ -98,3 +98,19 @@
 // console.log(result);
 
 // (*_^) ikki minutgayam bormadi
+
+// 8-masala
+
+// let str = "   " + "stringda har bir  uchinchi harfni uppercase qilish";
+
+// let result = "";
+// let result2 = "";
+// for(let i = 0; i < str.length; i++){
+//     if(i >= 3 && str[i-3] == " " && str[i-2] != " " && str[i-1] != " "){
+//         result2 += str[i].toUpperCase();
+//     }else{
+//         result2 += str[i];
+//     }
+
+// }
+// console.log(result2);
